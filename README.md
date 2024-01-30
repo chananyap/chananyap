@@ -1,4 +1,4 @@
-<img src="[https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png](https://github.com/chananyap/chananyap/blob/main/download.png)" alt="banner that says ciao i am chananya">
+<img src="https://github.com/chananyap/chananyap/blob/main/download.png" alt="banner that says ciao! it's me chananya">
 <!--
 **chananyap/chananyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
